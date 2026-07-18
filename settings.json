@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NiceCraft95k-NJ2q.aternos.me",
-    "port": 17663,
+    "ip": "NiceCraft95k.aternos.me",
+    "port": 27880,
     "version": "",
     "try-creative": false
   },
