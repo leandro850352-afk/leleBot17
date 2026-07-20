@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "leleBot1",
+    "username": "Slobot691",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        ".",
-        "leleÉfogo?",
-        "..."
+        "I'm a regular player",
+        "Subscribe to Slobos!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
