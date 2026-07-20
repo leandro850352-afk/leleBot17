@@ -31,11 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "🎮 Gostando do servidor?
-💬 Entre no nosso Discord e faça parte da comunidade!
-🔗 https://discord.gg/ENHxFMFEa",
-        "LELE É FOGO!",
-        "LELE É FOGO!"
+        ".",
+        "leleÉfogo?",
+        "..."
       ]
     },
     "chat-log": true,
