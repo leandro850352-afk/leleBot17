@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NiceCraft95k.aternos.me",
-    "port": 27880,
+    "ip": "serveDolele.aternos.me",
+    "port": 53301,
     "version": "",
     "try-creative": false
   },
