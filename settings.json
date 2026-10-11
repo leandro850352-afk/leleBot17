@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "serveDolele.aternos.me",
-    "port": 53301,
+    "ip": ".aternos.me",
+    "port": ,
     "version": "",
     "try-creative": false
   },
